@@ -2,7 +2,7 @@
 
 ## Student Instructions
 
-Hi this is Ismail
+Hi this is Ismail AlKamal
 
 ### Big Picture
 
